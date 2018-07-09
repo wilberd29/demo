@@ -1,2 +1,6 @@
 Esto es una demostracion con GIT
+<<<<<<< HEAD
 es necesario tener GIT instalado
+=======
+Modificacion de GIT
+>>>>>>> eb51dedc5490537855e1b9c800b539d8b67c916f
