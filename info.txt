@@ -1,1 +1,2 @@
 Esto es una demostracion con GIT
+es ncesario tener GIT instalado
